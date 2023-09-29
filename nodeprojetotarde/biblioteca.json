@@ -1,0 +1,257 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    {
+      "id": 4,
+      "nome": "Comédia"
+    },
+    {
+      "id": 5,
+      "nome": "Literatura e Ficção"
+    },
+    {
+      "id": 6,
+      "nome": "Romance"
+    },
+    {
+      "id": 7,
+      "nome": "Romance"
+    },
+    {
+      "id": 8,
+      "nome": "Ficção"
+    },
+    {
+      "id": 9,
+      "nome": "Fantasia"
+    },
+    {
+      "id": 10,
+      "nome": "Literatura"
+    },
+    {
+      "id": 11,
+      "nome": "Drama"
+    },
+    {
+      "id": 12,
+      "nome": "Suspense"
+    },
+    {
+      "id": 13,
+      "nome": "conto"
+    },
+    {
+      "id": 14,
+      "nome": "Ação"
+    },
+    {
+      "id": 15,
+      "nome": "Aventura"
+    },
+    {
+      "id": 16,
+      "nome": "Ficção Científica"
+    },
+    {
+      "id": 17,
+      "nome": "Comédia"
+    },
+    {
+      "id": 18,
+      "nome": "Infantil"
+    },
+    {
+      "id": 19,
+      "nome": "História"
+    },
+    {
+      "id": 20,
+      "nome": "Crimes"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "O guia do mochilas das galáxias",
+      "autor": "Douglas Adms ",
+      "anoPublicacao": 2020,
+      "isbn": "978-85-306-0149-2",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 5,
+      "titulo": "Cartas de amor aos mortos",
+      "autor": "Ava Dellaira ",
+      "anoPublicacao": 2014,
+      "isbn": "978-85-657-6541-1",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 7,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen ",
+      "anoPublicacao": 2018,
+      "isbn": " 978-85-440-0182-0",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 8,
+      "titulo": "A menina que roubava livros",
+      "autor": " Markus Zusak ",
+      "anoPublicacao": 2013,
+      "isbn": "978-85-980-7817-5",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 9,
+      "titulo": "Lua nova: (Série Crepúsculo)",
+      "autor": "Stephenie Meyer",
+      "anoPublicacao": 2008,
+      "isbn": "978-85-980-7835-9",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 10,
+      "titulo": "A rainha vermelha",
+      "autor": " Victoria Aveyard ",
+      "anoPublicacao": 2015,
+      "isbn": "978-85-657-6569-5",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 11,
+      "titulo": "A Cabana",
+      "autor": " William P. Young ",
+      "anoPublicacao": 2008,
+      "isbn": "978-85-992-9636-3",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 12,
+      "titulo": "Jantar  Secreto",
+      "autor": " Raphael Montes ",
+      "anoPublicacao": 2016,
+      "isbn": "978-85-359-2835-8",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 13,
+      "titulo": "Jantar Secreto",
+      "autor": " John Green",
+      "anoPublicacao": 2014,
+      "isbn": "978-85-805-7226-1",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 14,
+      "titulo": "O ladrão de raios",
+      "autor": "  Rick Riordan",
+      "anoPublicacao": 2014,
+      "isbn": " 978-85-805-7539-2",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 15,
+      "titulo": "A Promessa de um amigo",
+      "autor": " W. Bruce Cameron ",
+      "anoPublicacao": 2020,
+      "isbn": "978-85-950-8669-2",
+      "disponivel": false,
+      "categoriaId": 15
+    },
+    {
+      "id": 16,
+      "titulo": "Interestelar",
+      "autor": "Christopher Nolan",
+      "anoPublicacao": 2016,
+      "isbn": "978-85-831-1054-5",
+      "disponivel": false,
+      "categoriaId": 16
+    },
+    {
+      "id": 17,
+      "titulo": "Ninguém vira adulto de verdade",
+      "autor": "Sarah Andersen ",
+      "anoPublicacao": 2016,
+      "isbn": " 978-85-553-4021-5",
+      "disponivel": false,
+      "categoriaId": 17
+    },
+    {
+      "id": 18,
+      "titulo": "Encanto",
+      "autor": " Disney",
+      "anoPublicacao": 2023,
+      "isbn": "978-65-553-5913-8",
+      "disponivel": true,
+      "categoriaId": 18
+    },
+    {
+      "id": 19,
+      "titulo": "Sapiens - Uma breve História da Comunidade",
+      "autor": " Yuval Noah Harari ",
+      "anoPublicacao": 2015,
+      "isbn": "978-85-254-3218-6",
+      "disponivel": true,
+      "categoriaId": 19
+    },
+    {
+      "id": 20,
+      "titulo": "Anatomia true crime dos filmes",
+      "autor": " Harold Schechter ",
+      "anoPublicacao": 2022,
+      "isbn": "78-65-559-8171-1",
+      "disponivel": true,
+      "categoriaId": 20
+    }
+  ]
+}
